@@ -1,2 +1,3 @@
-# first-website
-experimenting with html, css, and js
+Experimenting with html, css, and javascript/jquery
+
+
